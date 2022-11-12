@@ -1,3 +1,5 @@
+<Hello GitWorld>
+  
 Consulting in the ICT industry for several years, now I´m a lover of development projects of web systems, exploring new opportunities to involve more in the IT field, and focusing on customer needs solutions with creativity and innovative view.
 Living different experiences such as Telecommunications, Tech Lead projects, sales, consultant, and development of systems.
 
